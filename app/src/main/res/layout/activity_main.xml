@@ -30,5 +30,11 @@
         android:layout_height="wrap_content"
         android:text="Sketch"
         android:onClick="applySketch" />
+
+    <Button
+        android:onClick="savePhoto"
+        android:text="SAVE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
   </LinearLayout>
 </ScrollView>
